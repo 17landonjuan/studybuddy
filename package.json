@@ -1,0 +1,9 @@
+{
+  "name": "studybuddy",
+  "version": "1.0.0",
+  "description": "Study App",
+  "main": "index.js",
+  "repository": "https://github.com/17landonjuan/studybuddy.git",
+  "author": "Landon Evans <evans.landon@gmail.com>",
+  "license": "MIT"
+}
